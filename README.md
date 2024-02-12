@@ -1,5 +1,5 @@
-nainsyk/Read.md
-
   ●  👋 Hi there, I’m @nainsyk 
+  
   ●  👀 I’m interested in Frontend & React.js Development..........
+  
   ●  💻 I’m currently learning Data Structures and Algorithm and Full Stack Development..........
